@@ -1,0 +1,6 @@
+Preferences:
+ 1. Film - Pride and Prejudice
+ 2. Serial- Wednesday
+ 3. Meal - Pies
+ 4. Season - Spring
+ 5. Country - Japanese

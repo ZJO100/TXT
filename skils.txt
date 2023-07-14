@@ -1,0 +1,8 @@
+Skils:
+ 1. Bug reports
+ 2. Http requests
+ 3. Postman
+ 4. Terminal
+ 5. SQL
+ 6. Potgres DB
+ 7. Pithon
